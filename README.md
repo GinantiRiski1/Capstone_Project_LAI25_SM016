@@ -49,21 +49,23 @@
 ## 🖼️ Cuplikan Tampilan 
 
 - Halaman Utama
+  
   ![Halaman Utama](https://github.com/user-attachments/assets/3282f4c4-27a3-4d53-8925-e011448414c2)
 
-- Halaman Tentang  
+- Halaman Tentang
+   
   ![Tentang](https://github.com/user-attachments/assets/74f674c7-5434-4c80-9b0a-8218d5dca619)
 
-- Penjelasan Cara Kerja  
+- Penjelasan Cara Kerja
+  
   ![Cara Kerja](https://github.com/user-attachments/assets/3db71616-e072-4a86-9e1e-3ba3514de16a)
 
-- Form Feedback  
-  ![Feedback](https://github.com/user-attachments/assets/ec879300-0eff-4922-8cfe-3531a25e2235)
-
 - Form Feedback/Hubungi Kami
-  ![Feedback](./assets/feedback.png)
   
-- Prediksi Huruf  
+  ![Feedback](https://github.com/user-attachments/assets/ec879300-0eff-4922-8cfe-3531a25e2235)
+ 
+- Prediksi Huruf
+  
   ![Prediksi Huruf](https://github.com/user-attachments/assets/b6cb14cf-1c1e-4305-b517-4d9008fadeda)
 
 ---
