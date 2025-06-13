@@ -85,7 +85,7 @@ A: Saat ini hanya mendukung prediksi huruf satu per satu (A–Z). Pengembangan l
 
 ## 📬 Kontak & Dukungan
 
-📧 Email: ginantiriski@gmail.com  atalamahardika24@gmail.com  nurillhts@gmail.com  hafisafrizal10@gmail.com
+📧 Email: ginantiriski@gmail.com  atalamahardika24@gmail.com  nurillhts@gmail.com  hafisafrizal10@gmail.com  
 🌐 Website: [https://sibi-frontend-production.up.railway.app](https://sibi-frontend-production.up.railway.app)
 
 ---
